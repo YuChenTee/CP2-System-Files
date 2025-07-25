@@ -21,13 +21,13 @@ This project implements a reinforcement learning framework for optimizing Small 
 
 ## 🚀 Getting Started
 
-1. **Set up WSL (Windows Subsystem for Linux)** with Ubuntu or another Linux distribution.
+1. **Set up WSL (Windows Subsystem for Linux)** with Ubuntu or another Linux distribution
 
-2. **Install NS-3** and ensure `ns3-gym` is correctly integrated.
+2. **Install NS-3** and ensure `ns3-gym` is correctly integrated
 
-3. **Clone this repository** and navigate to the root folder.
+3. **Clone this repository** and navigate to the root folder
 
-4. **Build the NS-3 project** (from the NS-3 directory).
+4. **Build the NS-3 project** (from the NS-3 directory)
 
 5. **Train the RL agent**
 
