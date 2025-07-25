@@ -27,7 +27,7 @@ This project implements a reinforcement learning framework for optimizing Small 
 
 3. **Clone this repository** and navigate to the root folder.
 
-4. **Build the NS-3 project** (from the NS-3 directory):
+4. **Build the NS-3 project** (from the NS-3 directory).
 
 5. **Train the RL agent**
 
